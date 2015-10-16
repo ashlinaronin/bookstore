@@ -1,11 +1,16 @@
 DB login info:
-bookstore
+dbname: bookstore
 admin
 epicodus
 
 site maintenance admin login info
 admin
 portland
+
+
+reviewer login info
+jonnycritic
+rupaul
 
 
 
