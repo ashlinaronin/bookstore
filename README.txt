@@ -9,4 +9,6 @@ portland
 
 
 
-note: my version of drupal didn't display strongarm options for site_slogan or site_frontpage
+note: realized that drupal settings dont show up in strongarm
+until youve set a value for them
+eg i hadnt set a slogan yet so it didnt appear in strongarm features tab
