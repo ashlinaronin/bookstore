@@ -24,20 +24,19 @@ Setup
 * Log in as an admin using the username 'admin' and password 'portland'
 * Enjoy!
 
-Log-in information for reference:
 DB login info:
-dbname: bookstore
-admin
-epicodus
+* dbname: bookstore
+* user: admin
+* pass: epicodus
 
 Site maintenance admin role login info
-admin
-portland
+* user: admin
+* pass: portland
 
 
 Reviewer role login info
-jonnycritic
-rupaul
+* user: jonnycritic
+* pass: rupaul
 
 Technologies Used
 -----------------
